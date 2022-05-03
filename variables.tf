@@ -26,7 +26,7 @@ variable "tags" {
 
 #Variavel da Vnet do grupo de recurso
 variable "name_vnet" {
-    default = "vnet-landpage" 
+    default = "vnet-landpage1" 
 }
 
 #Variavel do range de IP da rede Vnet
